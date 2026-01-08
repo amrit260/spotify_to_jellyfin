@@ -25,7 +25,7 @@ Import your Spotify playlists directly into Jellyfin! This tool reads Spotify CS
 
    ```bash
    git clone https://github.com/amrit260/spotify_to_jellyfin.git
-   cd spotify-to-jellyfin
+   cd spotify_to_jellyfin
    ```
 
 2. **Create and activate a virtual environment**
